@@ -12,6 +12,10 @@ namespace ConsoleApp1
         {
             //add editied code here 1 2//
             // add anthor code
+            Console.WriteLine("hello");
+
+
+                
         }
     }
 }
